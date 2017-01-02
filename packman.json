@@ -1,0 +1,7 @@
+{
+  "name": "AI-Programmer",
+  "export": "src",
+  "dependencies": [
+	  "kennelbound-unity/newtonsoft-json-lib"
+  ]
+}

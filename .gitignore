@@ -9,4 +9,4 @@
 !lib/*.dll
 *.xml
 Debug/
-Release/
+.DS_Store
